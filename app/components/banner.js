@@ -14,7 +14,7 @@ export default function Banner() {
       <div className="relative z-10 max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-10 px-4 sm:px-8 md:px-16">
         <div className="flex-1 min-w-[280px] ml-25 text-center md:text-left">   
           <h1 className="text-3xl sm:text-4xl font-extrabold mb-6 leading-tight drop-shadow-lg text-balance">
-            Welcome to <span className="text-white/90">MongStore!</span>
+            Welcome to <span className="text-white/90">MongieStore_ofc!</span>
           </h1>
           <p className="text-lg sm:text-xl mb-10 text-white/80 text-balance">
             Find the best products tailored just for you.
